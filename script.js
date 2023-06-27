@@ -48,3 +48,7 @@ window.dispatchEvent(new Event('resize'));
 
 
 
+window.addEventListener('resize', function() {
+    // Refresh the page on window resize
+    window.location.reload();
+});

@@ -34,6 +34,7 @@ body {
 .container-home{
     margin-top: 0px;
     margin-bottom: 0px;
+    overflow-x: hidden;
 }
 
 .container-home p{
